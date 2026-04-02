@@ -1,5 +1,6 @@
 import io
 import json
+from pathlib import Path
 from copy import deepcopy
 from typing import Dict, List, Optional
 
@@ -394,22 +395,39 @@ def update_scenarios_from_df(df: pd.DataFrame):
 
 
 def parse_uploaded_scenarios(uploaded_file):
-    import openpyxl
+    try:
+        # Prefer pandas for flexible header handling
+        df_raw = pd.read_excel(uploaded_file, sheet_name="03_Scenarios")
+    except Exception:
+        st.warning("Sheet 03_Scenarios not found or unreadable.")
+        return
 
-    wb = openpyxl.load_workbook(uploaded_file, data_only=True)
-    if "03_Scenarios" not in wb.sheetnames:
-        st.warning("Sheet 03_Scenarios not found in workbook.")
+    # Normalize column names
+    df_raw.columns = [str(c).strip() for c in df_raw.columns]
+    # Find scenario columns (Base + scenarios)
+    scenario_cols = [c for c in df_raw.columns if c.lower().startswith("base") or c.lower().startswith("scenario")]
+    if len(scenario_cols) < 4:
+        st.warning("Expected at least 4 scenario columns (Base, Scenario 1-3).")
         return
-    ws = wb["03_Scenarios"]
-    rows = list(ws.iter_rows(min_row=7, max_row=20, min_col=3, max_col=6, values_only=True))
-    if len(rows) != 14:
-        st.warning("Unexpected scenario range; expected 14 rows.")
-        return
-    df = scenario_df()
-    for i, vals in enumerate(rows):
-        df.loc[i, st.session_state.scenario_names] = vals
-    update_scenarios_from_df(df)
-    st.success(f"Loaded 14 variables × 4 scenarios from {uploaded_file.name}")
+
+    # Preserve scenario names from header
+    st.session_state.scenario_names = scenario_cols[:4]
+
+    # Align variables
+    for row in SCENARIO_VARIABLES:
+        label = row["label"]
+        key = row["key"]
+        match = df_raw[df_raw[df_raw.columns[0]].astype(str).str.strip().str.lower() == label.lower()]
+        if match.empty:
+            st.warning(f"Variable '{label}' not found in uploaded sheet.")
+            continue
+        values = match.iloc[0][scenario_cols[:4]].values
+        try:
+            st.session_state.scenarios[key] = np.array(values, dtype=float)
+        except Exception:
+            st.warning(f"Could not parse values for {label}.")
+
+    st.success(f"Loaded {len(SCENARIO_VARIABLES)} variables × 4 scenarios from {uploaded_file.name}")
 
 
 def build_inputs_from_state():
@@ -958,6 +976,17 @@ def main():
         st.subheader("Scenario Definition")
         mode = st.radio("Input mode", ["Manual entry", "Upload Excel"], horizontal=True)
         if mode == "Upload Excel":
+            st.info("Upload expects one Base plus Scenario 1–3 columns (exactly 4 scenarios).")
+            template_path = Path("scenario_template.xlsx")
+            if template_path.exists():
+                with template_path.open("rb") as f:
+                    st.download_button(
+                        "⬇️ Download scenario template (.xlsx)",
+                        data=f.read(),
+                        file_name="scenario_template.xlsx",
+                        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        use_container_width=True,
+                    )
             uploaded = st.file_uploader("Upload 03_Scenarios range", type=["xlsx"])
             if uploaded:
                 parse_uploaded_scenarios(uploaded)
