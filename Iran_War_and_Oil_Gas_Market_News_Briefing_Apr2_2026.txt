@@ -1,0 +1,348 @@
+================================================================================
+          IRAN WAR & OIL-GAS MARKET NEWS BRIEFING
+          Compiled: Thursday, April 2, 2026
+================================================================================
+
+
+================================================================================
+SECTION 1: IRAN WAR — SITUATION UPDATE (DAY 33)
+================================================================================
+
+BACKGROUND
+----------
+On February 28, 2026, the United States and Israel launched surprise airstrikes
+on sites and cities across Iran under "Operation Epic Fury." The strikes
+assassinated Supreme Leader Ali Khamenei and several senior Iranian military and
+intelligence officials, including Defense Minister Aziz Nasirzadeh, IRGC
+Commander Mohammad Pakpour, and Defence Council Secretary Ali Shamkhani. Iran
+responded with missile and drone strikes against Israel, US bases, and
+US-allied countries in the Middle East. Iran's IRGC effectively shut down the
+Strait of Hormuz, cutting off roughly 20% of the world's oil and LNG supply.
+
+Sources: CNN, Al Jazeera, Wikipedia (2026 Iran war)
+
+
+TRUMP'S ADDRESS TO THE NATION (April 1, 2026)
+----------------------------------------------
+President Trump delivered a roughly 19-minute primetime speech from the White
+House — his first formal address to the nation since the war began. Key points:
+
+- Claimed that "core strategic objectives are nearing completion" and that the
+  US is "on track to complete all of America's military objectives shortly."
+- Projected another 2-3 weeks of continued military operations, pledging to
+  hit Iran "extremely hard."
+- Threatened to bomb Iran "back to the Stone Ages" if a deal is not reached,
+  including targeting Iran's power plants and oil facilities.
+- Said "regime change was not our goal" but asserted that it has effectively
+  occurred because senior Iranian leaders are dead, and a "more reasonable"
+  group is now in charge.
+- Claimed "discussions are ongoing" with Iran, though Iranian officials deny
+  any negotiations are taking place.
+- Told allies reliant on Strait of Hormuz oil to "take care of that passage"
+  themselves, or purchase fuel from the US.
+
+Analyst reactions were largely critical. Trita Parsi of the Quincy Institute
+said the speech contained nothing new and that Trump "does not have a plan."
+Sina Azodi of George Washington University echoed this, calling it a repetition
+of prior statements. Capital.com's Daniela Hathorn noted that despite framing
+the situation as manageable, the tone was "more consistent with a war rally"
+than de-escalation.
+
+Sources: CBS News, Al Jazeera, CNN, TheStreet
+
+
+MILITARY SITUATION ON THE GROUND
+---------------------------------
+- US-Israeli airstrikes continue across Iran, hitting industrial and civilian
+  sites including steel plants, pharmaceutical factories, port infrastructure,
+  a century-old medical research center in Tehran, and a bridge near the capital.
+- At least 316 healthcare and emergency centers have been damaged in Iran since
+  Feb 28, per the Iranian Red Crescent (reported April 1).
+- Over 2,000 Iranians reported killed with thousands of civilian sites attacked.
+- Iran has fired over 500 ballistic/naval missiles and ~2,000 drones since
+  Feb 28, per Iranian military sources.
+- Iranian drone attacks have repeatedly targeted Kuwait's airport (closed since
+  Feb 28), and struck Bahrain facilities.
+- Hundreds of US Special Operations Forces and thousands of Marines and Army
+  paratroopers are now in the Middle East, giving Trump additional ground
+  options if he chooses to expand the war.
+- Netanyahu claimed the strikes have eliminated Iran's ability to produce
+  nuclear weapons and ballistic missiles.
+
+Sources: Al Jazeera, CNN, CBS News, Wikipedia
+
+
+DIPLOMATIC FRONT
+-----------------
+- Iran's FM Abbas Araghchi told Al Jazeera there are no negotiations with
+  Washington and that Tehran has "zero" trust in the US. Messages have been
+  exchanged indirectly via intermediaries and US Envoy Steve Witkoff.
+- Iran has not responded to a 15-point US proposal. An Iranian spokesperson
+  called the demands "largely excessive, unrealistic and unreasonable."
+- US Sec. of State Marco Rubio said "messages are being exchanged" and there
+  is "potential for a direct meeting at some point."
+- Trump claimed Iran's president wants a ceasefire; Tehran called this "false
+  and baseless."
+- Qatar's Emir and UAE's President have held talks on the crisis.
+- NATO allies Spain, France, and Italy have restricted US military operations,
+  closing airspace and denying base access.
+
+Sources: Al Jazeera, CNN, Gulf News
+
+
+HUMANITARIAN & GLOBAL IMPACT
+------------------------------
+- The IRC warned the crisis threatens to surpass the 2022 Ukraine food shock,
+  with a "ticking food security timebomb" and a narrowing window to prevent
+  a sharp rise in world hunger by June 2026.
+- Over 70,000 Afghan refugees forcibly returned to Afghanistan in the first
+  two weeks of March.
+- A near-total internet blackout in Iran exceeding 240 hours (second longest
+  ever). Security forces reported firing on civilians celebrating news of
+  Khamenei's death.
+- Australia PM Albanese warned of tough months ahead due to the war's economic
+  fallout.
+- Argentina designated Iran's IRGC as a terrorist organization.
+
+Sources: CNN, Al Jazeera, Wikipedia
+
+
+================================================================================
+SECTION 2: OIL MARKET NEWS
+================================================================================
+
+CURRENT PRICES (April 2, 2026)
+-------------------------------
+- Brent Crude: ~$107-108/barrel (surged 7%+ following Trump's speech)
+- WTI Crude: ~$105-111/barrel (up 3-11% depending on session)
+- European diesel futures: surged above $200/barrel for first time since 2022
+- US gasoline: above $4/gallon national average
+- US diesel: ~$5.40/gallon
+- Global jet fuel prices: more than doubled vs. February levels
+
+Context: On April 1, Brent had briefly dipped below $100 amid optimism the war
+might end soon, but Trump's evening address reversed the decline sharply. Oil
+is up roughly $30/barrel vs. one year ago.
+
+Sources: Bloomberg, CNBC, Fortune, TheStreet, Pintu News
+
+
+IEA EMERGENCY RESPONSE
+-----------------------
+- On March 11, IEA Member countries unanimously agreed to release 400 million
+  barrels of oil from emergency reserves — the Agency's largest-ever emergency
+  stock release.
+- Global observed oil stocks stood at 8.2 billion barrels as of January 2026,
+  the highest since February 2021. OECD countries hold ~1.25 billion barrels
+  in government emergency reserves.
+- The IEA described the combined impacts as "the greatest threat to global
+  energy security in history."
+
+Source: IEA Oil Market Report, March 2026
+
+
+OIL SUPPLY & DEMAND OUTLOOK
+-----------------------------
+- The Strait of Hormuz has been effectively shut since late February, removing
+  ~10 million barrels/day of oil production from global supply routes (a 90%+
+  reduction in strait traffic).
+- IEA reduced its 2026 global oil demand growth forecast by 210 kb/d to
+  640 kb/d, factoring in flight cancellations, LPG disruptions, and higher
+  prices eroding demand.
+- Flight cancellations in the Middle East and LPG supply disruptions are
+  expected to curb global oil demand by ~1 mb/d in March-April vs. prior
+  estimates.
+- Key Gulf suppliers have reduced oil production as regional storage fills up.
+- Saudi Arabia and UAE have pipeline bypass options (~2.6 mb/d capacity) that
+  partially mitigate disruptions.
+- EIA (US Energy Information Administration) assumes shut-in production will
+  gradually ease as transit through the Strait resumes, but the timeline
+  remains highly uncertain.
+
+Sources: IEA, EIA, Bloomberg, Wikipedia (Strait of Hormuz crisis)
+
+
+PRICE OUTLOOK & ANALYST VIEWS
+-------------------------------
+- Macquarie Research: A war lasting through June could push oil to $200/barrel,
+  correlating to ~$7/gallon gas in the US.
+- Oil futures curve is in steep backwardation (near-term contracts much more
+  expensive than longer-dated ones), signaling markets expect prices to
+  eventually decline but remain elevated for years.
+- J.P. Morgan's pre-war forecast of ~$60/barrel average for 2026 has been
+  overtaken by events.
+- Capital.com: "Markets will only recover in a true and sustainable way once
+  global energy markets begin to normalize."
+- Even if the war ends, analysts warn that the fallout on energy markets will
+  persist for an extended period due to damaged infrastructure and the time
+  needed to restart Strait of Hormuz flows.
+
+Sources: CNN, Bloomberg, J.P. Morgan, Macquarie Research
+
+
+================================================================================
+SECTION 3: NATURAL GAS & LNG MARKET NEWS
+================================================================================
+
+STRAIT OF HORMUZ LNG DISRUPTION
+---------------------------------
+- Roughly 20% of global LNG flows through the Strait of Hormuz, the majority
+  exported from Qatar. The closure has removed ~1.5 million tonnes per week
+  from global LNG supply (equivalent to 19% of global exports).
+- Qatar's Ras Laffan facility (world's largest LNG liquefaction plant) has been
+  offline since an Iranian drone strike on March 2. QatarEnergy declared force
+  majeure on March 4.
+- Parts of Ras Laffan sustained missile damage that QatarEnergy warned could
+  take up to 5 years to repair. QatarEnergy is also delaying its LNG expansion
+  plans to 2027.
+- Rapidan Energy warns LNG exports from the region won't restart until there
+  is 100% certainty of safe transit. Full restart of operations would take
+  weeks, not days.
+
+Sources: CNBC, IEA, Bloomberg, Atlantic Council
+
+
+GLOBAL GAS PRICE IMPACTS
+--------------------------
+- Asian LNG spot prices surged above $20/MMBtu, shifting from a discount to
+  a premium vs. European prices.
+- Asian benchmark LNG prices jumped ~40% at the start of the crisis.
+- European gas benchmarks spiked 50%+ on March 2 after QatarEnergy's force
+  majeure — the largest single-day increase since the 2022 energy crisis.
+- US Henry Hub natural gas prices are relatively insulated: EIA forecasts
+  ~$3.80/MMBtu average for 2026, as the US is the world's biggest LNG
+  exporter with massive domestic production.
+- However, reduced LNG flows through Hormuz have caused European and Asian
+  gas prices to increase significantly.
+
+Sources: IEA, EIA, Wood Mackenzie, Atlantic Council
+
+
+REGIONAL EXPOSURE
+------------------
+- Asia is most exposed: ~90% of LNG transiting the Strait was destined for
+  Asian buyers. China, Japan, South Korea, and Taiwan are the top destinations.
+- Wood Mackenzie expects Northeast Asian LNG demand to fall by 4-5 million
+  tonnes through Q3 2026 if disruptions last two months.
+- Japan is relatively well-positioned due to limited reliance on Qatari supply
+  and nuclear restarts.
+- South Korea faces greater exposure with ~14% of annual gas supply at risk
+  and over 20% spot LNG exposure.
+- India has ~20-25 days of practical runway at current inventory levels.
+- Europe gets 12-14% of its LNG from Qatar via the Strait. Europe is emerging
+  from winter with depleted storage tanks, fueling urgency to purchase more
+  LNG this summer.
+- Atlantic Basin LNG is being redirected toward Asia, tightening availability
+  for Europe.
+
+Sources: Wood Mackenzie, IEA, Arab Reform Initiative, Zynergy, Atlantic Council
+
+
+BROADER COMMODITY SPILLOVERS
+------------------------------
+- Up to 30% of internationally traded fertilizers transit the Strait of Hormuz.
+  Urea prices have risen ~50% since the war started.
+- The fertilizer shortage during spring planting could reduce corn yields in
+  the US (key feedstock for beef, poultry, dairy) and increase global food
+  prices into 2027.
+- Aluminum prices have risen; Gulf states account for ~20% of raw aluminum
+  exports and ~8% of global production.
+- Petrochemical plants are curbing polymer production due to plunging LPG
+  and naphtha supplies.
+
+Sources: IEA, Wikipedia, Bloomberg, Al Jazeera Centre for Studies
+
+
+================================================================================
+SECTION 4: FINANCIAL MARKETS REACTION (April 2, 2026)
+================================================================================
+
+US MARKETS (Thursday morning)
+------------------------------
+- Dow Jones: -431 to -484 points (~1% decline)
+- S&P 500: -0.8% to -0.9%
+- Nasdaq Composite: -1% to -1.2%
+- VIX (fear index): jumped 6%+ to ~26.86
+- Energy stocks surging: ExxonMobil, Marathon Petroleum, Occidental Petroleum
+  all trading higher. United States Oil Fund (USO) up ~10.5%.
+- Tech stocks under pressure: Nvidia, Apple, Microsoft, Alphabet, Tesla all
+  lower.
+- Gold dropped 3.2% to ~$4,659; silver fell 5%+.
+- S&P 500 posted its worst quarterly performance since September 2022 in Q1.
+- S&P 500 is down ~4% year-to-date.
+
+ASIAN MARKETS (Thursday close)
+-------------------------------
+- Japan Nikkei 225: -2.38% (down ~10% since war began)
+- South Korea Kospi: -4.47% (down ~14% since war began)
+- Hong Kong Hang Seng: -1% (down ~5% since war began)
+- Australia ASX 200: -1.06%
+- India Nifty 50: -1.38%
+
+Context: Markets had rallied on April 1 (S&P +0.72%, Nasdaq +1.16%) as Brent
+briefly dipped below $100 on ceasefire optimism. Trump's evening address
+reversed that momentum completely.
+
+Sources: CNBC, TheStreet, StockMarketWatch, Yahoo Finance
+
+
+================================================================================
+SECTION 5: KEY WATCHPOINTS AHEAD
+================================================================================
+
+1. TIMELINE: Trump projected 2-3 more weeks of operations. Whether this holds
+   or extends (as it has before — originally "4 days," then "3 weeks," now
+   another "2-3 weeks") is the central uncertainty.
+
+2. STRAIT OF HORMUZ: Any resolution to the conflict would need to address
+   reopening the Strait. Trump has urged allies to help secure the waterway.
+   The US has been running military operations to open it since March 19, but
+   Iran's asymmetric capabilities (mines, drones, fast attack craft) make
+   this challenging and costly.
+
+3. ESCALATION RISK: Trump threatened to target Iran's oil facilities and power
+   plants. Bombing oil infrastructure would remove supply from the market for
+   months or years, potentially sending prices well above $150-200/barrel.
+
+4. DIPLOMATIC CHANNELS: Indirect communication between US and Iran continues
+   via intermediaries. A potential Vance-Iranian officials meeting (possibly
+   mediated by Pakistan) was reportedly being explored before a strike killed
+   the intermediary's wife.
+
+5. EUROPEAN ENERGY CRISIS: Europe faces an energy crunch starting April as
+   pre-war Middle East cargoes run out. Germany's economic minister has warned
+   of shortages.
+
+6. FOOD SECURITY: Fertilizer disruptions during Northern Hemisphere spring
+   planting season could cascade into food price inflation through 2027.
+
+7. LNG RESTART: Even after a ceasefire, restarting Qatar's Ras Laffan LNG
+   operations could take weeks to months. Damaged sections may take years
+   to fully repair.
+
+
+================================================================================
+SOURCES
+================================================================================
+- CNN Live Updates (April 1-2, 2026)
+- Al Jazeera Live Blog & Analysis (April 1-2, 2026)
+- CBS News (April 2, 2026)
+- CNBC Stock Market & Energy Coverage (April 1-2, 2026)
+- Bloomberg Oil Market Analysis (April 1-2, 2026)
+- IEA Oil Market Report, March 2026
+- US EIA Short-Term Energy Outlook, March 2026
+- Wood Mackenzie LNG Analysis (March 2026)
+- Atlantic Council (March 17, 2026)
+- J.P. Morgan Global Research Oil Forecast
+- Macquarie Research
+- TheStreet Market Updates (April 2, 2026)
+- Yahoo Finance / Motley Fool (April 1, 2026)
+- Wikipedia: 2026 Iran War; 2026 Strait of Hormuz Crisis
+- Gulf News (April 2, 2026)
+- Al Jazeera Centre for Studies
+- Arab Reform Initiative
+- Zynergy Market Insights
+
+================================================================================
+END OF BRIEFING
+================================================================================
